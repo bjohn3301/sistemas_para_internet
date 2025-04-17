@@ -1,0 +1,1 @@
+Pesquise e explique o que é mutabilidade e imutabilidade em uma linguagem de programação. Foque na linguagem Python.

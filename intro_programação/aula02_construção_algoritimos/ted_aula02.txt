@@ -1,0 +1,20 @@
+Início
+    Abrir navegador
+    Acessar site "https://www.amazon.com"
+    Procurar por "Fluent Python: Clear, Concise, and Effective Programming"
+    Se livro encontrado então
+        Clicar no livro
+        Verificar disponibilidade
+        Se disponível então
+            Clicar em "Adicionar ao carrinho"
+            Clicar em "Finalizar compra"
+            Fazer login (se necessário)
+            Inserir informações de pagamento
+            Confirmar compra
+        Senão
+            Exibir mensagem "Livro indisponível"
+        FimSe
+    Senão
+        Exibir mensagem "Livro não encontrado"
+    FimSe
+Fim

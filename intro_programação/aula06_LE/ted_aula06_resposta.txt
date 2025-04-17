@@ -1,0 +1,3 @@
+Mutabilidade é quando um objeto pode ser alterado depois de criado, como listas e dicionários
+
+Imutabilidade é quando o objeto não pode ser mudado após ser criado, como strings e tuplas
